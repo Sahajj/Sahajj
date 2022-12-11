@@ -5,5 +5,5 @@
 -->
 ### Here are my Interests.
 - 👀 I’m interested in Developent & DevOps
-- 🌱 I’m currently learning cloud,Web3,kubernetes & python.
+- 🌱 I’m currently learning cloud & python.
 - 📫 How to reach me...[Twitter](https://twitter.com/SAHAJ27)

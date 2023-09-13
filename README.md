@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahajj&label=Profile%20views&color=0e75b6&style=flat" alt="sahajj" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sahaj27" target="blank"><img src="https://img.shields.io/twitter/follow/sahaj27?logo=twitter&style=for-the-badge" alt="sahaj27" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Networking, DevOps.**
 
@@ -15,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sahaj27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahaj27" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/sahaj27" target="blank"><img src="https://img.shields.io/twitter/follow/sahaj27?logo=twitter&style=for-the-badge" alt="sahaj27" /></a> </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

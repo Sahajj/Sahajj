@@ -17,5 +17,4 @@
 <p align="left"> <a href="https://twitter.com/sahaj27" target="blank"><img src="https://img.shields.io/twitter/follow/sahaj27?logo=twitter&style=for-the-badge" alt="sahaj27" /></a> </p>
 </p>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sahajj&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sahajj)](https://git.io/streak-stats)

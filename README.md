@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Networking, DevOps.**
 
-- 📝 I regularly write articles on [https://sahaj.hashnode.dev/](https://sahaj.hashnode.dev/)
+
 
 - 💬 Ask me about **Django, FLask, Linux/Unix...**
 
